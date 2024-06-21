@@ -1,4 +1,4 @@
-![image](https://github.com/aiswaryanr/Netflix_Landing_Page_Clone/assets/133225093/d93396f7-6d50-4fbd-a9ed-21945879d529)#  Netflix Landing Page Clone
+#  Netflix Landing Page Clone
 This project is a replication of the Netflix landing page created using HTML and CSS. It includes various sections commonly found on the Netflix homepage such as a navigation bar, promotional content, feature descriptions, and a footer with additional links and contact information.
 
 ## Features
@@ -9,10 +9,10 @@ This project is a replication of the Netflix landing page created using HTML and
 - **Footer**: Contains links to various Netflix-related pages and contact information.
 
 ## Technologies Used
-**HTML5**: For structuring the content.
-**CSS3**: For styling the content.
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling the content.
 
-
+## Screenshots
 
 ![Screenshot 2024-06-21 113809](https://github.com/aiswaryanr/Netflix_Landing_Page_Clone/assets/133225093/f8a6a0b3-7610-4e69-8f5e-7bfcbbeef99d)
 ![Screenshot 2024-06-21 113905](https://github.com/aiswaryanr/Netflix_Landing_Page_Clone/assets/133225093/7007cca6-73d6-42e9-9938-45095e3cc608)
